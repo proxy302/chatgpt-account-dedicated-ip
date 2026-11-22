@@ -6,7 +6,7 @@
 
 ## 先看 OpenAI 的名单
 
-ChatGPT 只在 OpenAI [支持国家名单](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)上的地方提供。名单上没有中国大陆、香港、澳门、俄罗斯、白俄罗斯和伊朗；OpenAI 也提示，从名单以外的地方使用可能导致账号被封禁或暂停。名单看的是人在哪里，买一个名单内国家的 IP 改变不了这一点。
+ChatGPT 只在 OpenAI [支持国家名单](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)上的地方提供。OpenAI 提示，从名单以外的地方使用可能导致账号被封禁或暂停。名单看的是人在哪里，买一个名单内国家的 IP 改变不了这一点。
 
 人在名单上的国家，一般用家里或公司的网络就能正常用，不需要额外做什么。固定 IP 只在下面这些情况有用。
 
@@ -62,7 +62,7 @@ Proxy302 的 GPT/Grok 档在订购页列的城市有美国多个城市、伦敦�
 **续费以后 IP 会变吗？**
 不会，续费还是同一条。过期后 IP 被收回，再买就是新地址。
 
-**人在中国大陆，用美国 IP 能用 ChatGPT 吗？**
+**人不在名单上的地方，用美国 IP 能用 ChatGPT 吗？**
 按 OpenAI 的名单，这样用不被允许，IP 改变不了。
 
 ## 相关

@@ -15,7 +15,7 @@
 
 ## 1. Start with OpenAI's list
 
-OpenAI offers ChatGPT only in the countries on its [supported countries list](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries). Mainland China, Hong Kong, Macau, Russia, Belarus and Iran are not on it, and OpenAI warns that using its services from outside the list can lead to an account being blocked or suspended. The list is about where you are. Buying an IP in a listed country does not change that.
+OpenAI offers ChatGPT only in the countries on its [supported countries list](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries). OpenAI warns that using its services from outside the list can lead to an account being blocked or suspended. The list is about where you are. Buying an IP in a listed country does not change that.
 
 If you are on the list, you usually need nothing special: ChatGPT works on an ordinary home or office connection. A fixed IP is a convenience for specific situations, not a requirement.
 
@@ -71,7 +71,7 @@ Complete it honestly with your own details. A proxy is not a substitute, and we 
 **Does the IP change when I renew?**
 No, renewing keeps the same IP. If the term lapses, the IP is released and a new order gets a different address.
 
-**I am in mainland China. Can I use ChatGPT with a US IP?**
+**I am outside the supported countries. Can I use ChatGPT with a US IP?**
 That use is not permitted under OpenAI's list, and an IP does not change it.
 
 ## 6. Related
